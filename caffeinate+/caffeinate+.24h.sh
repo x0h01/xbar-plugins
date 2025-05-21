@@ -5,7 +5,7 @@
 # <xbar.author>Volodymyr Tereshchuk</xbar.author>
 # <xbar.author.github>x0h01</xbar.author.github>
 # <xbar.desc>A simple wrapper for the 'caffeinate' utility that prevents system from entering idle sleep mode</xbar.desc>
-# <xbar.image></xbar.image>
+# <xbar.image>https://raw.githubusercontent.com/x0h01/xbar-plugins/master/caffeinate+/caffeinate+.png</xbar.image>
 #
 # <swiftbar.hideAbout>true</swiftbar.hideAbout>
 # <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
